@@ -11,7 +11,6 @@ simple definitions, visual understanding, and real-world code snippets.
 ## 📂 Repository Structure
 - `/concepts` — Markdown notes (theory + examples)
 - `/code-snippets` — Reusable JavaScript implementations
-- `/examples` — Demo scripts for learning
 
 ## 🧠 Topics Covered
 ✔ Scope & Execution Context  
