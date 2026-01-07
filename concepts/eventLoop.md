@@ -8,7 +8,7 @@ The call stack executes synchronous code, while async tasks are placed into queu
 
 ## Event Loop Diagram
 
-![JavaScript Event Loop Diagram](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*k3yFQki71RJK-CQXC7GzLg.png)
+![JavaScript Event Loop Diagram](https://miro.medium.com/v2/resize:fit:1200/1*eFvdHDgxCM6C20Zt80I7Jg.png)
 
 ---
 
